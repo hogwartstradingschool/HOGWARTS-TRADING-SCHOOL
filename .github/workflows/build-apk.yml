@@ -23,8 +23,8 @@ jobs:
             "appName": "HOGWARTS TRADING SCHOOL",
             "webDir": "www",
             "server": {
-              "url": "https://script.google.com/macros/s/AKfycbxLEA1CencokVGZ0v4MCKaN7O2RSdO1OI_qUkTYAI3XtAJc1TTsiYOVklVvObdgGQqD5A/exec",
-              "allowNavigation": ["*.google.com", "*.googleusercontent.com", "*.gstatic.com"]
+              "url": "https://hogwartstradingschool.github.io/HOGWARTS-TRADING-SCHOOL/",
+              "allowNavigation": ["*.github.io", "*.google.com", "*.googleusercontent.com", "*.gstatic.com"]
             }
           }
           JSON
